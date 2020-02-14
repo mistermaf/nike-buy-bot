@@ -27,10 +27,10 @@ const pass = 'mypassword';
 const cv_code = '123';
 
 // size: the shoe size, as you see in the table of sizes on a product page, e.g., 'M 9 / W 10.5'
-const size = 'M 9 / W 10.5';
+const size = 'M 40 / W 40';
 
 // url: url to the shoe page, e.g., 'https://www.nike.com/us/launch/t/kobe-4-protro-wizenard/'
-const url = 'https://www.nike.com/us/launch/t/kobe-4-protro-wizenard/';
+const url = 'https://www.nike.com.br/Snkrs/Produto/SB-Dunk-Low/153-169-211-208601';
 
 // debug: Use debug/logging features?
 // Includes writing updates to log file, writing html snapshots, and taking screenshots
